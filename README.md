@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Muhamad-Khadr
+- 👀 I’m interested in web-design, programing, video-editing and filmaking.  ...
+- 🌱 I’m currently learning web development and Data-structure. ...
+- 📫 Contact me  ...
+- Gmail :- Khadrmuhamad@gmail.com
+<!---
+Muhamad-Khadr/Muhamad-Khadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
